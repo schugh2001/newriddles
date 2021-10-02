@@ -22,7 +22,7 @@ Answer: The future
 Answer: There aren’t any—it’s a one-story house.
 
 8. Riddle. What can you break, even if you never pick it up or touch it?
-Answer: Promise
+Answer: A promise
 
 9. Riddle: What goes up but never comes down?
 Answer: Your age
