@@ -39,8 +39,4 @@ Answer: Your word
 13. Riddle: I shave every day, but my beard stays the same. What am I?
 Answer: A barber
 
-14. Riddle: You see a boat filled with people, yet there isn’t a single person on board. How is that possible?
-Answer: All the people on the boat are married.
-
-
 
