@@ -16,7 +16,7 @@ Answer: A sponge
 Answer: Are you asleep yet?
 
 6. Riddle: What is always in front of you but can’t be seen?
-Answer: The future
+Answer: The Future
 
 7. Riddle: There’s a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?
 Answer: There aren’t any—it’s a one-story house.
